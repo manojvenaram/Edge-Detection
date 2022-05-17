@@ -67,15 +67,19 @@ plt.yticks([])
 plt.show()
 ```
 ## Output:
-### SOBEL EDGE DETECTOR
 ![](1.png)
-
-### LAPLACIAN EDGE DETECTOR
 ![](2.png)
+
+### SOBEL EDGE DETECTOR
+![](3.png)
+![](5.png)
+![](4.png)
+### LAPLACIAN EDGE DETECTOR
+![](6.png)
 
 
 ### CANNY EDGE DETECTOR
-![](3.png)
+![](7.png)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
